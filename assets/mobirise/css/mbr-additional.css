@@ -1104,15 +1104,15 @@ a {
   color: #000000;
 }
 .cid-sTy8vE7nWX {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #fafafa;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
 }
 .cid-sTy8vE7nWX .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
 }
 .cid-sTy8vE7nWX .card-wrapper {
-  background-color: #ffffff;
+  background-color: #000000;
   border-radius: 4px;
 }
 .cid-sTy8vE7nWX .image-wrapper img {
@@ -1158,6 +1158,17 @@ a {
     padding-left: 2rem;
     padding-right: 4rem;
   }
+}
+.cid-sTy8vE7nWX .card-title {
+  color: #fafafa;
+}
+.cid-sTy8vE7nWX .card-subtitle {
+  color: #fafafa;
+}
+.cid-sTy8vE7nWX .mbr-text,
+.cid-sTy8vE7nWX .social-row {
+  color: #fafafa;
+  text-align: left;
 }
 .cid-sIHyoSWvaE {
   z-index: 1000;
